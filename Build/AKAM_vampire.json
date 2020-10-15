@@ -1,6 +1,6 @@
 {
 "companyName": "AKAM",
-"productName": "akam_unity_input",
+"productName": "AKAMoutput",
 "productVersion": "1.0",
 "dataUrl": "AKAM_vampire.data.unityweb",
 "wasmCodeUrl": "AKAM_vampire.wasm.code.unityweb",
